@@ -6,7 +6,7 @@
 
 Sou técnico em Mecatrônica, cursei Engenharia de Produção até o 7º período, e atualmente estou finalizando a graduação em Análise e Desenvolvimento de Sistemas.
 
-Apaixonado por tecnologia desde sempre, tenho experiência prática programando desde sites e sistemas web até máquinas CNC, centros de usinagem e robôs industriais. Gosto de unir o mundo do software ao da automação, criando soluções eficientes, inteligentes e, sempre que possível, inovadoras.
+Apaixonado por tecnologia, tenho experiência prática programando desde sites e sistemas web até máquinas CNC, centros de usinagem e robôs industriais. Gosto de unir o mundo do software ao da automação, criando soluções eficientes, inteligentes e, sempre que possível, inovadoras.
 
 <!-- Aqui no GitHub você vai encontrar projetos que refletem essa trajetória multidisciplinar e minha vontade constante de aprender e evoluir. -->
 
