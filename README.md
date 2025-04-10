@@ -11,21 +11,7 @@ Apaixonado por tecnologia desde sempre, tenho experiência prática programando 
 <!-- Aqui no GitHub você vai encontrar projetos que refletem essa trajetória multidisciplinar e minha vontade constante de aprender e evoluir. -->
 
 
-<p align="left">
-    <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a> -->
-    <!-- <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a>  -->
+<!-- <p align="left">
     <a href="https://github.com/juniorxf?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -40,7 +26,7 @@ Apaixonado por tecnologia desde sempre, tenho experiência prática programando 
             src="https://custom-icon-badges.demolab.com/github/followers/juniorxf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</p> -->
 
 ---
 
@@ -86,14 +72,14 @@ Apaixonado por tecnologia desde sempre, tenho experiência prática programando 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
     alt="Bootstrap"
@@ -102,14 +88,14 @@ Apaixonado por tecnologia desde sempre, tenho experiência prática programando 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+/> -->
 <!-- <img 
     align="left" 
     alt="SASS" 
@@ -162,7 +148,7 @@ Apaixonado por tecnologia desde sempre, tenho experiência prática programando 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!-- ### 📊 Estatísticas
 
 <p>
   <img 
@@ -179,4 +165,4 @@ Apaixonado por tecnologia desde sempre, tenho experiência prática programando 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorxf&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</p> -->
